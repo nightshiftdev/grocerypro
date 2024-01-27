@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grapefruit</key>
+	<string>produce</string>
+	<key>mango</key>
+	<string>produce</string>
+	<key>peaches</key>
+	<string>produce</string>
+	<key>raspberries</key>
+	<string>produce</string>
+	<key>watermelon</key>
+	<string>produce</string>
+	<key>limes</key>
+	<string>produce</string>
+	<key>kiwi</key>
+	<string>produce</string>
+	<key>apples</key>
+	<string>produce</string>
+	<key>pears</key>
+	<string>produce</string>
+	<key>oranges</key>
+	<string>produce</string>
+	<key>bananas</key>
+	<string>produce</string>
+	<key>strawberries</key>
+	<string>produce</string>
+	<key>blueberries</key>
+	<string>produce</string>
+	<key>cherries</key>
+	<string>produce</string>
+	<key>pineapple</key>
+	<string>produce</string>
+	<key>lemons</key>
+	<string>produce</string>
+	<key>potatoes</key>
+	<string>produce</string>
+	<key>lettuce</key>
+	<string>produce</string>
+	<key>broccoli</key>
+	<string>produce</string>
+	<key>cauliflower</key>
+	<string>produce</string>
+	<key>carrots</key>
+	<string>produce</string>
+	<key>celery</key>
+	<string>produce</string>
+	<key>grapes</key>
+	<string>produce</string>
+	<key>onions</key>
+	<string>produce</string>
+	<key>garlic</key>
+	<string>produce</string>
+	<key>cucumber</key>
+	<string>produce</string>
+	<key>squash</key>
+	<string>produce</string>
+	<key>zucchini</key>
+	<string>produce</string>
+	<key>radish</key>
+	<string>produce</string>
+	<key>corn</key>
+	<string>produce</string>
+	<key>green beans</key>
+	<string>produce</string>
+	<key>peppers</key>
+	<string>produce</string>
+	<key>mushrooms</key>
+	<string>produce</string>
+	<key>eggplant</key>
+	<string>produce</string>
+	<key>tomatoes</key>
+	<string>produce</string>
+	<key>water</key>
+	<string>beverages</string>
+	<key>coke</key>
+	<string>beverages</string>
+	<key>soda</key>
+	<string>beverages</string>
+	<key>hot chocolate</key>
+	<string>beverages</string>
+	<key>orange juice</key>
+	<string>beverages</string>
+	<key>apple juice</key>
+	<string>beverages</string>
+	<key>lemonade</key>
+	<string>beverages</string>
+	<key>iced tea</key>
+	<string>beverages</string>
+	<key>tomato juice</key>
+	<string>beverages</string>
+	<key>tea</key>
+	<string>beverages</string>
+	<key>green tea</key>
+	<string>beverages</string>
+	<key>coffee</key>
+	<string>beverages</string>
+	<key>mocha</key>
+	<string>beverages</string>
+	<key>beer</key>
+	<string>liquor</string>
+	<key>alcohol</key>
+	<string>liquor</string>
+	<key>wine</key>
+	<string>liquor</string>
+	<key>half and half</key>
+	<string>dairy</string>
+	<key>margarine</key>
+	<string>dairy</string>
+	<key>yogurt</key>
+	<string>dairy</string>
+	<key>formula</key>
+	<string>baby</string>
+	<key>cream cheese</key>
+	<string>dairy</string>
+	<key>sour cream</key>
+	<string>dairy</string>
+	<key>milk</key>
+	<string>dairy</string>
+	<key>butter</key>
+	<string>dairy</string>
+	<key>cheese</key>
+	<string>dairy</string>
+	<key>eggs</key>
+	<string>dairy</string>
+	<key>pudding</key>
+	<string>snacks</string>
+	<key>crackers</key>
+	<string>snacks</string>
+	<key>pita bread</key>
+	<string>bakery</string>
+	<key>bread</key>
+	<string>bakery</string>
+	<key>rolls</key>
+	<string>bakery</string>
+	<key>croissants</key>
+	<string>bakery</string>
+	<key>waffles</key>
+	<string>frozen foods</string>
+	<key>rice cakes</key>
+	<string>snacks</string>
+	<key>cookies</key>
+	<string>snacks</string>
+	<key>muffins</key>
+	<string>bakery</string>
+	<key>donuts</key>
+	<string>bakery</string>
+	<key>apple pie</key>
+	<string>bakery</string>
+	<key>cake</key>
+	<string>bakery</string>
+	<key>chocolate</key>
+	<string>snacks</string>
+	<key>candy</key>
+	<string>snacks</string>
+	<key>eclairs</key>
+	<string>bakery</string>
+	<key>popsicles</key>
+	<string>frozen foods</string>
+	<key>ice cream</key>
+	<string>frozen foods</string>
+	<key>gum</key>
+	<string>snacks</string>
+	<key>pizza</key>
+	<string>frozen foods</string>
+	<key>hotdogs</key>
+	<string>meats and seafood</string>
+	<key>burger</key>
+	<string>meats and seafood</string>
+	<key>fries</key>
+	<string>frozen foods</string>
+	<key>chips</key>
+	<string>snacks</string>
+	<key>tuna</key>
+	<string>canned foods</string>
+	<key>shrimp</key>
+	<string>meats and seafood</string>
+	<key>ground beef</key>
+	<string>meats and seafood</string>
+	<key>ground turkey</key>
+	<string>meats and seafood</string>
+	<key>bacon</key>
+	<string>meats and seafood</string>
+	<key>turkey</key>
+	<string>deli</string>
+	<key>chicken</key>
+	<string>meats and seafood</string>
+	<key>fish</key>
+	<string>meats and seafood</string>
+	<key>lobster</key>
+	<string>meats and seafood</string>
+	<key>salmon</key>
+	<string>meats and seafood</string>
+	<key>ham</key>
+	<string>deli</string>
+	<key>pork chops</key>
+	<string>meats and seafood</string>
+	<key>steak</key>
+	<string>meats and seafood</string>
+	<key>black pepper</key>
+	<string>baking good and supplies</string>
+	<key>spices</key>
+	<string>baking good and supplies</string>
+	<key>relish</key>
+	<string>condiments</string>
+	<key>mayonnaise</key>
+	<string>condiments</string>
+	<key>oil</key>
+	<string>baking good and supplies</string>
+	<key>bread crumbs</key>
+	<string>pastas and rice</string>
+	<key>rice</key>
+	<string>pastas and rice</string>
+	<key>salad dressing</key>
+	<string>condiments</string>
+	<key>jelly</key>
+	<string>breakfast</string>
+	<key>dog food</key>
+	<string>pets</string>
+	<key>cat food</key>
+	<string>pets</string>
+	<key>ketchup</key>
+	<string>condiments</string>
+	<key>mustard</key>
+	<string>condiments</string>
+	<key>pickles</key>
+	<string>canned foods</string>
+	<key>flour</key>
+	<string>baking good and supplies</string>
+	<key>salt</key>
+	<string>baking good and supplies</string>
+	<key>sugar</key>
+	<string>baking good and supplies</string>
+	<key>brown sugar</key>
+	<string>baking good and supplies</string>
+	<key>baking soda</key>
+	<string>baking good and supplies</string>
+	<key>honey</key>
+	<string>baking good and supplies</string>
+	<key>cereal</key>
+	<string>breakfast</string>
+	<key>oatmeal</key>
+	<string>breakfast</string>
+	<key>popcorn</key>
+	<string>snacks</string>
+	<key>ice</key>
+	<string>frozen foods</string>
+	<key>peanut butter</key>
+	<string>breakfast</string>
+	<key>peanuts</key>
+	<string>baking good and supplies</string>
+	<key>almonds</key>
+	<string>baking good and supplies</string>
+	<key>cashews</key>
+	<string>baking good and supplies</string>
+	<key>pistachios</key>
+	<string>baking good and supplies</string>
+	<key>walnuts</key>
+	<string>baking good and supplies</string>
+	<key>hazelnuts</key>
+	<string>baking good and supplies</string>
+	<key>tomato soup</key>
+	<string>canned foods</string>
+	<key>mushroom soup</key>
+	<string>canned foods</string>
+	<key>chicken soup</key>
+	<string>canned foods</string>
+	<key>soup</key>
+	<string>canned foods</string>
+	<key>salad</key>
+	<string>produce</string>
+	<key>pasta</key>
+	<string>pastas and rice</string>
+	<key>spaghetti</key>
+	<string>pastas and rice</string>
+	<key>shampoo</key>
+	<string>health and beauty</string>
+	<key>conditioner</key>
+	<string>health and beauty</string>
+	<key>hair gel</key>
+	<string>health and beauty</string>
+	<key>hair moose</key>
+	<string>health and beauty</string>
+	<key>hair spray</key>
+	<string>health and beauty</string>
+	<key>body wash</key>
+	<string>health and beauty</string>
+	<key>deodorant</key>
+	<string>health and beauty</string>
+	<key>body lotion</key>
+	<string>health and beauty</string>
+	<key>face wash</key>
+	<string>health and beauty</string>
+	<key>soap</key>
+	<string>health and beauty</string>
+	<key>face cream</key>
+	<string>health and beauty</string>
+	<key>shaving gel</key>
+	<string>health and beauty</string>
+	<key>pimple cream</key>
+	<string>health and beauty</string>
+	<key>makeup remover</key>
+	<string>health and beauty</string>
+	<key>toothpaste</key>
+	<string>health and beauty</string>
+	<key>toothbrush</key>
+	<string>health and beauty</string>
+	<key>mouthwash</key>
+	<string>health and beauty</string>
+	<key>dental floss</key>
+	<string>health and beauty</string>
+	<key>toilet bowl cleaner</key>
+	<string>household items</string>
+	<key>bathroom cleaner</key>
+	<string>household items</string>
+	<key>tissues</key>
+	<string>household items</string>
+	<key>toilet paper</key>
+	<string>household items</string>
+	<key>cotton balls</key>
+	<string>health and beauty</string>
+	<key>nail polish remover</key>
+	<string>health and beauty</string>
+	<key>nail files</key>
+	<string>health and beauty</string>
+	<key>laundry detergent</key>
+	<string>household items</string>
+	<key>fabric softener</key>
+	<string>household items</string>
+	<key>softener sheets</key>
+	<string>household items</string>
+	<key>bleach</key>
+	<string>household items</string>
+	<key>dish detergent</key>
+	<string>household items</string>
+	<key>dishwasher detergent</key>
+	<string>household items</string>
+	<key>glass cleaner</key>
+	<string>household items</string>
+	<key>kitchen cleaner</key>
+	<string>household items</string>
+	<key>sponges</key>
+	<string>household items</string>
+	<key>garbage bags</key>
+	<string>household items</string>
+	<key>sandwich bags</key>
+	<string>baking good and supplies</string>
+	<key>aluminum foil</key>
+	<string>baking good and supplies</string>
+	<key>plastic wrap</key>
+	<string>baking good and supplies</string>
+	<key>duster</key>
+	<string>household items</string>
+	<key>pain killers</key>
+	<string>pharmacy</string>
+	<key>prescription</key>
+	<string>pharmacy</string>
+</dict>
+</plist>
